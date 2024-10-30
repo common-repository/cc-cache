@@ -1,0 +1,8 @@
+#wpadminbar #wp-admin-bar-cache .ab-icon:before {
+    content: '\f321';
+    top: 3px;
+}
+
+#menu-settings #cache {
+   line-height: 1.5;
+}
